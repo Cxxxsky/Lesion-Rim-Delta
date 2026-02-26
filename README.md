@@ -268,18 +268,7 @@ rm -rf feature_cache/
 
 See `example.py` for a complete working example.
 
-## Citation
 
-If you use this code, please cite:
-
-```bibtex
-@article{meddinov3,
-  title={MedDINOv3: Medical Vision Transformer with Oracle Upper Bound},
-  author={...},
-  journal={...},
-  year={2024}
-}
-```
 
 ## License
 
